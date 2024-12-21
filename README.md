@@ -1,4 +1,4 @@
-# D-FLIPDLOP-NEGEDGE
+# D-FLIPFLOP-NEGEDGE
 
 **AIM:**
 
@@ -40,7 +40,9 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 
 **PROGRAM**
 
- ## Developed by:LAKSHMIDHAR N; RegisterNumber: 24900046
+ ## Developed by:LAKSHMIDHAR N; 
+ ## RegisterNumber: 24900046
+    
     module exp8(D,clk,Q,Qbar);
     
     input D,clk;
@@ -65,11 +67,11 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
     
     endmodule
 
-**RTL LOGIC FOR FLIPFLOPS**
+**RTL LOGIC FOR FLIP FLOP**
 ![exp8rtl](https://github.com/user-attachments/assets/81561bc9-a17b-4074-b54b-4d3f390fd069)
 
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+**TIMING DIGRAMS FOR FLIP FLOP**
 ![Screenshot 2024-11-29 151421](https://github.com/user-attachments/assets/8f160f92-6350-4abd-96b7-e0522acf4d20)
 
 
